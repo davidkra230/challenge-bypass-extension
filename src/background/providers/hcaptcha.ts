@@ -17,7 +17,7 @@ const NON_SPEND_HCAPTCHA_URLS = [
     'https://hcaptcha.com/getcaptcha/30000000-ffff-ffff-ffff-000000000003',
 ];
 
-const NUMBER_OF_REQUESTED_TOKENS = 5;
+const NUMBER_OF_REQUESTED_TOKENS = 1;
 const MAX_NUM_OF_TOKENS = 100;
 
 const TOKEN_STORE_KEY = 'tokens';
